@@ -1,5 +1,5 @@
-#SUMA
-Procedimiento de sumar 2 numeros con javscript
+#PROMEDIO
+Procedimiento para promediar números con javscript
 * inicio
 * Leer 
     * dato 1
